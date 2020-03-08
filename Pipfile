@@ -4,15 +4,15 @@ url = "https://mirrors.aliyun.com/pypi/simple/"
 verify_ssl = true
 
 [dev-packages]
-python-language-server = {extras = ["all"],version = "*"}
 pyls-isort = "*"
 pyls-mypy = "*"
 pyls-black = "*"
-flake8 = "*"
-autoflake = "*"
 ptvsd = "*"
 importmagic = "*"
 epc = "*"
+python-language-server = {extras = ["all"],version = "*"}
+autoflake = "*"
+flake8 = "*"
 
 [packages]
 
