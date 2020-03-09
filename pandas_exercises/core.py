@@ -3,7 +3,5 @@
 __all__ = ['add']
 
 # Cell
-
-
 def add(a, b):
     return a + b

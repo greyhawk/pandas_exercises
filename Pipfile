@@ -15,6 +15,10 @@ autoflake = "*"
 flake8 = "*"
 
 [packages]
+nbdev = "*"
+numpy = "*"
+pandas = "*"
+jupyterlab = "*"
 
 [requires]
 python_version = "3.8"
