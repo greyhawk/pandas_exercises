@@ -2,9 +2,9 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"add": "00_math.ipynb"}
+index = {"generate": "00_numpy.ipynb"}
 
-modules = ["core.py"]
+modules = ["numpycore.py"]
 
 doc_url = "https://greyhawk.github.io/pandas_exercises/"
 
