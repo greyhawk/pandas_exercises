@@ -15,6 +15,7 @@ importmagic = "*"
 epc = "*"
 jupyterlab = "*"
 nbdev = "*"
+pylint = "*"
 
 [packages]
 numpy = "*"
